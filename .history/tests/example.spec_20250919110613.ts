@@ -22,6 +22,6 @@ test('facebook', async ({ page }) => {
   await page.goto('https://facebook.com');
 });
 
-test('ig', async ({ page }) => {
-  await page.goto('htt//instagram.com');
+test('facebook', async ({ page }) => {
+  await page.goto('https://facebook.com');
 });
