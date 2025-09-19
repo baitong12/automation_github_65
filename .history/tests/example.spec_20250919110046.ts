@@ -18,6 +18,5 @@ test('get started link', async ({ page }) => {
 });
 
 
-test('facebook', async ({ page }) => {
-  await page.goto('https://facebook.com');
-});
+test('example test', async ({ page }) => {
+  await page.goto('https://example.com');
